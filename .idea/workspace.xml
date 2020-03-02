@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ab97e72-c9e3-4644-8bab-3bd10af8a918" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YZ5VyYJDyJ8iYlCX49CWEmqXZP" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="romanTemplate" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FirstClass" />
+      <module name="github-demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ab97e72-c9e3-4644-8bab-3bd10af8a918" name="Default Changelist" comment="" />
+      <created>1583137303117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583137303117</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="384" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583137563639">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="384" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.959@0.23.1680.959" timestamp="1583137563639" />
+    <state x="657" y="293" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583137560949">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="657" y="293" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.959@0.23.1680.959" timestamp="1583137560949" />
+  </component>
+</project>
