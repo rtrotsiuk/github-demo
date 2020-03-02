@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ab97e72-c9e3-4644-8bab-3bd10af8a918" name="Default Changelist" comment="" />
+    <list default="true" id="8ab97e72-c9e3-4644-8bab-3bd10af8a918" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/HomeTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Season.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,11 +14,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YZ5VyYJDyJ8iYlCX49CWEmqXZP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -26,7 +35,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.HomeTask1">
+    <configuration name="HomeTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeTask1" />
+      <module name="github-demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="romanTemplate" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="FirstClass" />
       <module name="github-demo" />
@@ -34,6 +50,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.romanTemplate" />
+      <item itemvalue="Application.HomeTask1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HomeTask1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -57,5 +82,37 @@
       <screen x="0" y="23" width="1680" height="959" />
     </state>
     <state x="657" y="293" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.959@0.23.1680.959" timestamp="1583137560949" />
+    <state x="166" y="23" width="1185" height="877" key="CommitChangelistDialog2" timestamp="1583144144582">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="166" y="23" width="1185" height="877" key="CommitChangelistDialog2/0.23.1680.959@0.23.1680.959" timestamp="1583144144582" />
+    <state x="87" y="67" key="DiffContextDialog" timestamp="1583144017589">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="87" y="67" key="DiffContextDialog/0.23.1680.959@0.23.1680.959" timestamp="1583144017589" />
+    <state width="1366" height="289" key="GridCell.Tab.0.bottom" timestamp="1583144144601">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state width="1366" height="289" key="GridCell.Tab.0.bottom/0.23.1680.959@0.23.1680.959" timestamp="1583144144601" />
+    <state width="1366" height="289" key="GridCell.Tab.0.center" timestamp="1583144144600">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state width="1366" height="289" key="GridCell.Tab.0.center/0.23.1680.959@0.23.1680.959" timestamp="1583144144600" />
+    <state width="1366" height="289" key="GridCell.Tab.0.left" timestamp="1583144144600">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state width="1366" height="289" key="GridCell.Tab.0.left/0.23.1680.959@0.23.1680.959" timestamp="1583144144600" />
+    <state width="1366" height="289" key="GridCell.Tab.0.right" timestamp="1583144144601">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state width="1366" height="289" key="GridCell.Tab.0.right/0.23.1680.959@0.23.1680.959" timestamp="1583144144601" />
+    <state x="661" y="125" key="refactoring.ChangeSignatureDialog" timestamp="1583142660481">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="661" y="125" key="refactoring.ChangeSignatureDialog/0.23.1680.959@0.23.1680.959" timestamp="1583142660481" />
+    <state x="640" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1583143751776">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="640" y="233" width="670" height="676" key="search.everywhere.popup/0.23.1680.959@0.23.1680.959" timestamp="1583143751776" />
   </component>
 </project>
